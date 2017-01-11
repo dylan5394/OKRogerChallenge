@@ -9,7 +9,9 @@ public class App {
 
 		Counter counter = new Counter();
 		
-		counter.countWords("hello");
+		counter.countWords();
+		counter.printToFile();
+		counter.findWordsWithPrefix("th");
 	}
 
 }

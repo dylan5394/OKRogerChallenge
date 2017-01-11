@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Extract local variable &apos;entry&apos; from expression &apos;(Entry&lt;String,Integer&gt;)arr[i]&apos;&#x0A;- Original project: &apos;OKRogerChallenge&apos;&#x0A;- Variable name: &apos;entry&apos;&#x0A;- Destination method: &apos;app.Counter.printToFile()&apos;&#x0A;- Variable expression: &apos;(Entry&lt;String,Integer&gt;)arr[i]&apos;" description="Extract local variable &apos;entry&apos;" final="false" id="org.eclipse.jdt.ui.extract.temp" input="/src&lt;app{Counter.java" name="entry" replace="false" selection="2293 31" stamp="1484104444486" version="1.0"/>
+</session>
